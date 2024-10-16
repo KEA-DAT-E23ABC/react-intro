@@ -46,8 +46,3 @@ This lecture is an introduction to React, a JavaScript library for building user
 1. Using React Router
 1. Using React Hooks
 1. Using Context API
-
-## Course materials
-
-- [Quick start guide](https://react.dev/learn)
-- [Thinking in react](https://react.dev/learn/thinking-in-react)
