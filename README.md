@@ -10,10 +10,13 @@ This lecture is an introduction to React, a JavaScript library for building user
 
 - Go through this setup guide in the [setup-environment.md](setup-environment.md) file.
 
-### Read the following material
+### Learning material
 
 - [Quick start guide](https://react.dev/learn)
-- [Thinking in react](https://react.dev/learn/thinking-in-react)
+- [useState](https://react.dev/reference/react/useState) (reference)
+- [useEffect](https://react.dev/reference/react/useEffect) (reference)
+- [Thinking in react](https://react.dev/learn/thinking-in-react) (optional)
+- [Keeping Components Pure](https://react.dev/learn/keeping-components-pure) (optional)
 
 ## Course objectives
 
