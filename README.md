@@ -30,3 +30,7 @@ This lecture is an introduction to React, a JavaScript library for building user
 - Learn how to fetch data from an API
 - Learn how to use React Router
 - Learn how to use React Hooks
+
+## Exercises
+
+- Exercises can be found [here](https://github.com/KEA-DAT-E23ABC/react-exercises)
