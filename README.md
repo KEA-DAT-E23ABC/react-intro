@@ -18,19 +18,10 @@ This lecture is an introduction to React, a JavaScript library for building user
 - [Thinking in react](https://react.dev/learn/thinking-in-react) (optional)
 - [Keeping Components Pure](https://react.dev/learn/keeping-components-pure) (optional)
 
-## Course objectives
-
-- Learn how to scaffold a React project
-- Understand the project structure
-- Understand the basics of React
-- Learn how to create components
-- Learn how to manage state
-- Learn how to handle events
-- Learn how to work with forms
-- Learn how to fetch data from an API
-- Learn how to use React Router
-- Learn how to use React Hooks
-
 ## Exercises
 
 - Exercises can be found [here](https://github.com/KEA-DAT-E23ABC/react-exercises)
+
+## Slides
+
+- [React intro slides](https://github.com/KEA-DAT-E23ABC/react-intro/blob/main/slides.pdf)
